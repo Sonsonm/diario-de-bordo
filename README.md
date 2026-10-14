@@ -20,7 +20,7 @@ App gratuito e open source para controlar a manutenção do seu carro: troca de 
 
 ## Usar (para qualquer pessoa)
 
-Abra o endereço do app publicado (veja abaixo) e, no celular, use **Adicionar à tela inicial**.
+Abra **<https://sonsonm.github.io/diario-de-bordo/>** e, no celular, use **Adicionar à tela inicial**.
 
 ## Publicar sua própria cópia no GitHub Pages
 
